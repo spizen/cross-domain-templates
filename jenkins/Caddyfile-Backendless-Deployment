@@ -1,3 +1,4 @@
 <subdomain.domain-name.extension> {
   root /srv/<subdomain.domain-name.extension>/
 }
+on startup php-fpm7
